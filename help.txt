@@ -1,0 +1,3 @@
+AFDA CD 001
+
+These files are for Ardeny Foundation Cd-Roms devices.
