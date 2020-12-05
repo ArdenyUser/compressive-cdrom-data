@@ -1,0 +1,1 @@
+This version of Raspbian from 2012 may not run on new rpi models!
