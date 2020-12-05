@@ -1,0 +1,7 @@
+Deb-Developer CD-ROM Device
+#! Notice this comment and remove in full use: LISTEN TO ALL {[]} COMMENTS AND REMOVE IN FULL USE
+
+CDROM Device {[EDIT TEXT WITH CD ID NUMBER, example for number: 001]} ,-[ Used as {[What cdrom is used as, like "AF CDROM]} ]-'
+
+More info:
+{[More information]}
